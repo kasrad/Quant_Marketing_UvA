@@ -60,10 +60,3 @@ def data_reader(address, colnames, verbose=False, fuck_parsing=True):
     
     # print(data['timestamp'])
     return data
-#%%
-imp = data_reader('data\\imp.20131019.txt', colnames, 
-                verbose=False, fuck_parsing=True)
-bid = data_reader('data\\bid.20131019.txt', colnames_bid,
-                  verbose=False, fuck_parsing=True)
-#%%
-imp.head()
