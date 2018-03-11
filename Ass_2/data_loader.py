@@ -38,9 +38,9 @@ def data_reader(address, colnames, verbose=False, fuck_parsing=True):
     Imports data with column names
     '''
     data = pd.read_csv(address, sep="\t", names=colnames)
-    data['user_tags'] = [[int(tag) for tag in entry.split(',')] \
-                         if entry != 'null' else None \
-                         for entry in data['user_tags']]
+    # data['user_tags'] = [[int(tag) for tag in entry.split(',')] \
+    #                      if entry != 'null' else None \
+    #                      for entry in data['user_tags']]
     data['timestamp'] = [datetime.strptime(str(entry)[:-3], '%Y%m%d%H%M%S') \
                          for entry in data['timestamp']]
     if not fuck_parsing:
