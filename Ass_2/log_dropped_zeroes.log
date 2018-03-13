@@ -1,0 +1,627 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| SHARE of EXPLORATION : 0.0001 |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+dimensions: (44, 4)
+target price: 60.00
+target winrate: 0.23
+
+Exploring
+
+Doubling
+winrate: 0.25
+price: 58.00
+
+Breaking in round 2
+winrate: 0.50
+E(views): 221214.00 > target_views 100000.00
+E(price): 91.00 > target_price 60.00
+spent exploring: 240.00
+bid impressions: nan
+bid budget: nan
+probability for bid budget: 0.7
+
+Exploiting
+win_rate, cost, spent_exploring: 0.00, 0.00, 240.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| SHARE of EXPLORATION : 0.0001 |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+dimensions: (63, 4)
+target price: 60.00
+target winrate: 0.23
+
+Exploring
+
+Doubling
+winrate: 0.17
+price: 58.00
+
+Breaking in round 2
+winrate: 0.67
+E(views): 294952.00 > target_views 100000.00
+E(price): 65.25 > target_price 60.00
+spent exploring: 319.00
+bid impressions: 82.0
+bid budget: 82.0
+probability for bid budget: 1.1
+
+Exploiting
+costs exceeded budget in round 249305 out of 442365
+win_rate, cost, spent_exploring: 0.35, 5999689.00, 319.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| SHARE of EXPLORATION : 0.0002 |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+dimensions: (91, 4)
+target price: 60.00
+target winrate: 0.23
+
+Exploring
+
+Doubling
+winrate: 0.11
+price: 58.00
+
+Doubling
+winrate: 0.89
+price: 48.25
+
+Doubling
+winrate: 1.00
+price: 56.44
+
+Breaking in round 4
+winrate: 1.00
+E(views): 442428.00 > target_views 100000.00
+E(price): 87.89 > target_price 60.00
+spent exploring: 1743.00
+bid impressions: 52.0
+bid budget: 122.0
+probability for bid budget: 0.3
+
+Exploiting
+costs exceeded budget in round 336602 out of 442337
+win_rate, cost, spent_exploring: 0.39, 5998263.00, 1743.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| SHARE of EXPLORATION : 0.0003 |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+dimensions: (131, 4)
+target price: 60.00
+target winrate: 0.23
+
+Exploring
+
+Doubling
+winrate: 0.15
+price: 32.50
+
+Doubling
+winrate: 0.85
+price: 41.64
+
+Breaking in round 3
+winrate: 1.00
+E(views): 442428.00 > target_views 100000.00
+E(price): 88.77 > target_price 60.00
+spent exploring: 1677.00
+bid impressions: 58.0
+bid budget: 112.0
+probability for bid budget: 0.3
+
+Exploiting
+costs exceeded budget in round 316990 out of 442297
+win_rate, cost, spent_exploring: 0.39, 5998363.00, 1677.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| SHARE of EXPLORATION : 0.0004 |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+dimensions: (189, 4)
+target price: 60.00
+target winrate: 0.23
+
+Exploring
+
+Doubling
+winrate: 0.28
+price: 22.80
+
+Doubling
+winrate: 0.78
+price: 49.43
+
+Breaking in round 3
+winrate: 0.94
+E(views): 417848.67 > target_views 100000.00
+E(price): 85.35 > target_price 60.00
+spent exploring: 2257.00
+bid impressions: 42.0
+bid budget: 106.0
+probability for bid budget: 0.3
+
+Exploiting
+costs exceeded budget in round 396267 out of 442239
+win_rate, cost, spent_exploring: 0.41, 5997805.00, 2257.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| SHARE of EXPLORATION : 0.0006 |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+dimensions: (272, 4)
+target price: 60.00
+target winrate: 0.23
+
+Exploring
+
+Doubling
+C:\Users\jan\Anaconda3\lib\site-packages\ipykernel_launcher.py:65: RuntimeWarning: divide by zero encountered in double_scalars
+
+winrate: 0.33
+price: 22.89
+
+Breaking in round 2
+winrate: 0.70
+E(views): 311338.22 > target_views 100000.00
+E(price): 60.21 > target_price 60.00
+spent exploring: 1350.00
+bid impressions: 15.0
+bid budget: 63.0
+probability for bid budget: inf
+
+Exploiting
+win_rate, cost, spent_exploring: 0.47, 5923796.00, 1350.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| SHARE of EXPLORATION : 0.0009 |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+dimensions: (391, 4)
+target price: 60.00
+target winrate: 0.23
+
+Exploring
+
+Doubling
+winrate: 0.33
+price: 27.23
+
+Doubling
+winrate: 0.54
+price: 51.19
+
+Breaking in round 3
+winrate: 1.00
+E(views): 442428.00 > target_views 100000.00
+E(price): 91.72 > target_price 60.00
+spent exploring: 5006.00
+bid impressions: 51.0
+bid budget: 112.0
+probability for bid budget: 0.3
+
+Exploiting
+costs exceeded budget in round 339177 out of 442037
+win_rate, cost, spent_exploring: 0.40, 5995032.00, 5006.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| SHARE of EXPLORATION : 0.0013 |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+dimensions: (563, 4)
+target price: 60.00
+target winrate: 0.23
+
+Exploring
+
+Doubling
+winrate: 0.34
+price: 28.58
+
+Doubling
+winrate: 0.59
+price: 58.33
+
+Breaking in round 3
+winrate: 0.98
+E(views): 434527.50 > target_views 100000.00
+E(price): 77.18 > target_price 60.00
+spent exploring: 6713.00
+bid impressions: 16.0
+bid budget: 142.0
+probability for bid budget: 0.3
+
+Exploiting
+win_rate, cost, spent_exploring: 0.28, 4844506.00, 6713.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| SHARE of EXPLORATION : 0.0018 |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+dimensions: (810, 4)
+target price: 60.00
+target winrate: 0.23
+
+Exploring
+
+Doubling
+winrate: 0.32
+price: 28.81
+
+Doubling
+winrate: 0.72
+price: 52.95
+
+Breaking in round 3
+winrate: 0.96
+E(views): 426041.78 > target_views 100000.00
+E(price): 76.97 > target_price 60.00
+spent exploring: 9824.00
+bid impressions: 13.0
+bid budget: 155.0
+probability for bid budget: 0.3
+
+Exploiting
+win_rate, cost, spent_exploring: 0.28, 5406357.00, 9824.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| SHARE of EXPLORATION : 0.0026 |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+dimensions: (1166, 4)
+target price: 60.00
+target winrate: 0.23
+
+Exploring
+
+Doubling
+winrate: 0.34
+price: 29.49
+
+Doubling
+winrate: 0.69
+price: 49.41
+
+Breaking in round 3
+winrate: 0.97
+E(views): 430985.90 > target_views 100000.00
+E(price): 80.62 > target_price 60.00
+spent exploring: 14213.00
+bid impressions: 24.0
+bid budget: 142.0
+probability for bid budget: 0.3
+
+Exploiting
+win_rate, cost, spent_exploring: 0.36, 5620361.00, 14213.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| SHARE of EXPLORATION : 0.0038 |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+dimensions: (1677, 4)
+target price: 60.00
+target winrate: 0.23
+
+Exploring
+
+Doubling
+winrate: 0.34
+price: 26.12
+
+Doubling
+winrate: 0.71
+price: 50.72
+
+Breaking in round 3
+winrate: 0.99
+E(views): 437129.46 > target_views 100000.00
+E(price): 79.68 > target_price 60.00
+spent exploring: 20672.00
+bid impressions: 44.0
+bid budget: 150.0
+probability for bid budget: 0.4
+
+Exploiting
+costs exceeded budget in round 303231 out of 440751
+win_rate, cost, spent_exploring: 0.36, 5979402.00, 20672.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| SHARE of EXPLORATION : 0.0055 |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+dimensions: (2413, 4)
+target price: 60.00
+target winrate: 0.23
+
+Exploring
+
+Doubling
+winrate: 0.37
+price: 24.36
+
+Doubling
+winrate: 0.74
+price: 52.70
+
+Breaking in round 3
+winrate: 0.98
+E(views): 435084.80 > target_views 100000.00
+E(price): 79.01 > target_price 60.00
+spent exploring: 30327.00
+bid impressions: 201.0
+bid budget: 142.0
+probability for bid budget: 1.3
+
+Exploiting
+costs exceeded budget in round 158339 out of 440015
+win_rate, cost, spent_exploring: 0.27, 5969714.00, 30327.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| SHARE of EXPLORATION : 0.0078 |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+dimensions: (3471, 4)
+target price: 60.00
+target winrate: 0.23
+
+Exploring
+
+Doubling
+winrate: 0.36
+price: 24.31
+
+Doubling
+winrate: 0.72
+price: 46.12
+
+Breaking in round 3
+winrate: 0.96
+E(views): 424577.88 > target_views 100000.00
+E(price): 79.04 > target_price 60.00
+spent exploring: 40865.00
+bid impressions: 201.0
+bid budget: 197.0
+probability for bid budget: 1.0
+
+Exploiting
+costs exceeded budget in round 105799 out of 438957
+win_rate, cost, spent_exploring: 0.22, 5959139.00, 40865.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| SHARE of EXPLORATION : 0.0113 |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+dimensions: (4994, 4)
+target price: 60.00
+target winrate: 0.23
+
+Exploring
+
+Doubling
+winrate: 0.39
+price: 25.31
+
+Doubling
+winrate: 0.71
+price: 44.15
+
+Breaking in round 3
+winrate: 0.99
+E(views): 436221.60 > target_views 100000.00
+E(price): 80.49 > target_price 60.00
+spent exploring: 60072.00
+bid impressions: 160.0
+bid budget: 150.0
+probability for bid budget: 1.1
+
+Exploiting
+costs exceeded budget in round 143874 out of 437434
+win_rate, cost, spent_exploring: 0.26, 5940046.00, 60072.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| SHARE of EXPLORATION : 0.0162 |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+dimensions: (7184, 4)
+target price: 60.00
+target winrate: 0.23
+
+Exploring
+
+Doubling
+winrate: 0.41
+price: 24.39
+
+Doubling
+winrate: 0.70
+price: 46.86
+
+Breaking in round 3
+winrate: 0.99
+E(views): 436882.25 > target_views 100000.00
+E(price): 77.79 > target_price 60.00
+spent exploring: 85938.00
+bid impressions: 160.0
+bid budget: 40.0
+probability for bid budget: 0.3
+
+Exploiting
+costs exceeded budget in round 189166 out of 435244
+win_rate, cost, spent_exploring: 0.28, 5914161.00, 85938.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| SHARE of EXPLORATION : 0.0234 |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+dimensions: (10333, 4)
+target price: 60.00
+target winrate: 0.23
+
+Exploring
+
+Doubling
+winrate: 0.42
+price: 24.42
+
+Doubling
+winrate: 0.71
+price: 46.94
+
+Breaking in round 3
+winrate: 0.98
+E(views): 433433.82 > target_views 100000.00
+E(price): 80.26 > target_price 60.00
+spent exploring: 126018.00
+bid impressions: 72.0
+bid budget: 160.0
+probability for bid budget: 0.7
+
+Exploiting
+costs exceeded budget in round 157957 out of 432095
+win_rate, cost, spent_exploring: 0.27, 5873999.00, 126018.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| SHARE of EXPLORATION : 0.0336 |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+dimensions: (14864, 4)
+target price: 60.00
+target winrate: 0.23
+
+Exploring
+
+Doubling
+winrate: 0.42
+price: 24.63
+
+Doubling
+winrate: 0.71
+price: 48.01
+
+Breaking in round 3
+winrate: 0.98
+E(views): 433496.08 > target_views 100000.00
+E(price): 81.28 > target_price 60.00
+spent exploring: 184418.00
+bid impressions: 133.0
+bid budget: 152.0
+probability for bid budget: 0.9
+
+Exploiting
+costs exceeded budget in round 139050 out of 427564
+win_rate, cost, spent_exploring: 0.25, 5815642.00, 184418.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| SHARE of EXPLORATION : 0.0483 |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+dimensions: (21382, 4)
+target price: 60.00
+target winrate: 0.23
+
+Exploring
+
+Doubling
+winrate: 0.43
+price: 24.89
+
+Doubling
+winrate: 0.72
+price: 50.38
+
+Breaking in round 3
+winrate: 0.98
+E(views): 433529.78 > target_views 100000.00
+E(price): 77.62 > target_price 60.00
+spent exploring: 262804.00
+bid impressions: 65.0
+bid budget: 160.0
+probability for bid budget: 1.1
+
+Exploiting
+costs exceeded budget in round 131531 out of 421046
+win_rate, cost, spent_exploring: 0.25, 5737214.00, 262804.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| SHARE of EXPLORATION : 0.0695 |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+dimensions: (30757, 4)
+target price: 60.00
+target winrate: 0.23
+
+Exploring
+
+Doubling
+winrate: 0.43
+price: 25.88
+
+Doubling
+winrate: 0.74
+price: 48.86
+
+Breaking in round 3
+winrate: 0.98
+E(views): 435090.17 > target_views 100000.00
+E(price): 74.85 > target_price 60.00
+spent exploring: 372250.00
+bid impressions: 14.0
+bid budget: 160.0
+probability for bid budget: 8.6
+
+Exploiting
+costs exceeded budget in round 127372 out of 411671
+win_rate, cost, spent_exploring: 0.24, 5627763.00, 372250.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| SHARE of EXPLORATION : 0.1000 |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+dimensions: (44242, 4)
+target price: 60.00
+target winrate: 0.23
+
+Exploring
+
+Doubling
+winrate: 0.43
+price: 26.64
+
+Doubling
+winrate: 0.76
+price: 46.60
+
+Breaking in round 3
+winrate: 0.98
+E(views): 432727.39 > target_views 100000.00
+E(price): 69.29 > target_price 60.00
+spent exploring: 507585.00
+bid impressions: 140.0
+bid budget: 32.0
+probability for bid budget: 0.7
+
+Exploiting
+costs exceeded budget in round 396158 out of 398186
+win_rate, cost, spent_exploring: 0.40, 5492418.00, 507585.00
